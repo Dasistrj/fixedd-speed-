@@ -33,7 +33,7 @@ def Banner():
 ╔╦╗  ╦  ╦╔═  ╔═╗  ╦ ╦  ╔═╗  ╦═╗  ╔═╗
  ║   ║  ╠╩╗  ╚═╗  ╠═╣  ╠═╣  ╠╦╝  ║╣ 
  ╩   ╩  ╩ ╩  ╚═╝  ╩ ╩  ╩ ╩  ╩╚═  ╚═╝
-        discord.gg/devcenter
+     shoutout i fixed proxies speed discord.gg/devcenter
 """
 
     Banner2 = r"""
